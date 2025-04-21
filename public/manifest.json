@@ -1,0 +1,16 @@
+{
+  "name": "Ana Côrtes - Planejamento Financeiro",
+  "short_name": "Ana Côrtes",
+  "description": "Planejamento financeiro personalizado para ajudar você a alcançar seus objetivos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/images/profile.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
